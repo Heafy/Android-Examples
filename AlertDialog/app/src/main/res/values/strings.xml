@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">AlertDialog</string>
+    <string name="alert_dialog_simple">Alert Dialog for confirm</string>
+    <string name="alert_dialog_double">Alert Dialog with multiple choices</string>
+    <string name="alert_dialog_list">Alert Dialog with list</string>
+    <string name="alert_dialog_picker">Alert Dialog with picker</string>
+    <string name="alert_dialog_custom">Alert Dialog custom</string>
+    <string name="alert_dialog_title">Alert Dialog title</string>
+    <string name="alert_dialog_message">Alert Dialog message</string>
+    <string name="button_clicked">Button %1$s clicked</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string-array name="items_array">
+        <item>Item 1</item>
+        <item>Item 2</item>
+        <item>Item 3</item>
+        <item>Item 4</item>
+    </string-array>
+</resources>

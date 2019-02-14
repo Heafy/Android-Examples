@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/alert_dialog_simple"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="100dp"
+        android:layout_marginBottom="15dp"
+        android:text="@string/alert_dialog_simple"
+        android:onClick="clickADConfirm"/>
+
+    <Button
+        android:id="@+id/alert_dialog_double"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="15dp"
+        android:text="@string/alert_dialog_double"
+        android:onClick="clickADMultiple"/>
+
+    <Button
+        android:id="@+id/alert_dialog_list"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="15dp"
+        android:text="@string/alert_dialog_list"
+        android:onClick="clickADList"/>
+
+    <Button
+        android:id="@+id/alert_dialog_picker"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="15dp"
+        android:text="@string/alert_dialog_picker"
+        android:onClick="clickADPicker"/>
+
+    <Button
+        android:id="@+id/alert_dialog_custom"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="15dp"
+        android:text="@string/alert_dialog_custom"
+        android:onClick="clickADCustom"/>
+
+</LinearLayout>
