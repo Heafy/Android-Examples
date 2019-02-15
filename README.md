@@ -4,3 +4,4 @@ Collection of simples android examples working, for research and consultation, w
 
 * **AlertDialog:** Examples of windows alerts.
 * **RecyclerView:** Flexible view useful for reuse several times in an activity.
+* **VideoView:** View from play and manipulate videos.
