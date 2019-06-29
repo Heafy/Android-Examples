@@ -6,3 +6,4 @@ Collection of simples android examples working, for research and consultation, w
 * **RecyclerView:** Flexible view useful for reuse several times in an activity.
 * **VideoStream:** View from stream videos, with media controller and buffer bar.
 * **VideoView:** View from play and manipulate videos from local source.
+* **WebView:** Display web content as part of the activity layout.
